@@ -31,3 +31,5 @@ The part of the tail wheel that slides over the bent part of the "low-arm contro
 ### Progress
 * 11/10/2019
   * At this time only the body is complete. I ordered parts for power so it doesn't have to be plugged in. I'm a noob in Arduino/Robotic programming "paradigm" so it will probably suck. But I will get it to move/have avoidance. Then eventually move onto more complex stuf like SLAM and knowing where a solar source is(window) to recharge(hilarious). This is a building block to an outdoor robot project which if I'm still alive/not homeless I will build.
+  * real talk, this STL realtime viewer built into Github... mad cool
+  ![STL viewer GitHub](./images/random/stl-realtime.JPG)
