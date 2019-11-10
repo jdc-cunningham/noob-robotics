@@ -2,6 +2,9 @@
 
 This thing is a piece of crap. I just threw something together over a weekend so I had a physical body to work with. But here are the files and a link to this blog post I wrote about this which is more a collection of thoughts rather than anything like a tutorial. This is also currently not complete as of 11/10/2019. It is intended as a base paltform(for me) to attach sensors to and develop an ultrasonic-based "SLAM" mapping robot. And while we're at it, throw in solar-powered self-contained magic. That is the end goal but it won't be this robot.
 
+### Blog Entry more details
+[View Story](https://github.com/jdc-cunningham/noob-robotics/tree/master/taildragger-ultrasound-mapping)
+
 ### Materials
 * Arduino Mega 2560
 * HSR-1425CR (2x)
