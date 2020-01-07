@@ -2,6 +2,13 @@
 
 This thing is a piece of crap. I just threw something together over a weekend so I had a physical body to work with. But here are the files and a link to this blog post I wrote about this which is more a collection of thoughts rather than anything like a tutorial. This is also currently not complete as of 11/10/2019. It is intended as a base paltform(for me) to attach sensors to and develop an ultrasonic-based "SLAM" mapping robot. And while we're at it, throw in solar-powered self-contained magic. That is the end goal but it won't be this robot.
 
+### Last update
+The programming was bad for the OD 5 ultrasonic sensors. They were okay but not great if the surface was not sufficiently uniform/"solid enough" to be detected like a piece of clothing on the floor.
+
+See a video here, so far the single point LIDAR sensor to be put on a pan/tilt has been put on hold like many things I start/lose interest in(not great).
+
+[![One of the few times it didn't stutter in a diagonal](http://img.youtube.com/vi/19PDYWKqXRA/0.jpg)](https://www.youtube.com/watch?v=19PDYWKqXRA)
+
 ### Blog Entry more details
 [View Story](https://github.com/jdc-cunningham/noob-robotics/tree/master/taildragger-ultrasound-mapping)
 
